@@ -1,7 +1,7 @@
 # Neuroimaging Researcher
 ### Education
-M.Sc., Biomedical Engineering and Medical Physics | Technical University of Munich (_Apr 2024_)
-B.Tech., Biomedical Engineering |  Maulana Abul Kalam Azad University of Technology (_Jul 2017_)
+- M.Sc., Biomedical Engineering and Medical Physics | Technical University of Munich (_Apr 2024_)
+- B.Tech., Biomedical Engineering |  Maulana Abul Kalam Azad University of Technology (_Jul 2017_)
 
 ### Technical Skills
 - Python, SQL, MATLAB, FSL, FreeSurfer, Windows, Linux, Darwin, MS Office
