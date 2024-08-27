@@ -1,13 +1,13 @@
 # Neuroimaging Researcher
 ### Education
-- M.Sc., Biomedical Engineering and Medical Physics | Technical University of Munich (_Apr 2024_)
+- M.Sc., Biomedical Engineering & Medical Physics | Technical University of Munich (_Apr 2024_)
 - B.Tech., Biomedical Engineering |  Maulana Abul Kalam Azad University of Technology (_Jul 2017_)
 
 ### Technical Skills
 - Python, SQL, MATLAB, FSL, FreeSurfer, Windows, Linux, Darwin, MS Office
 
 ### Work experience
-**Study Coordinator at Albert Einstein Colleghe of Medicine (_Jul 2024 - Present_)**
+**Study Coordinator at Albert Einstein College of Medicine (_Jul 2024 - Present_)**
 - Develop research study, protocol, and maintain regulatory compliance and documentation
 - Perform medical data curation of MRI data from MR system to cluster
 - Build pipeline to perform batch processing of patient data that includes pre-processing like distortion correction, image registration of anatomical and functional MRI
